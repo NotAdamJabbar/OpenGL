@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adama\\Documents\\GBC\\OpenGL\\MultiColour Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|C:\\Users\\adama\\Documents\\GBC\\OpenGL\\MultiColour Triangle\\OpenGLGlutGlfwShaderTemplate\\testGlut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FBC251-848A-4A85-8F07-6551E7A7A4C6}|OpenGLGlutGlfwShaderTemplate\\OpenGLGlutGlfwShaderTemplate.vcxproj|solutionrelative:OpenGLGlutGlfwShaderTemplate\\testGlut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testGlut.cpp",
+              "DocumentMoniker": "C:\\Users\\adama\\Documents\\GBC\\OpenGL\\MultiColour Triangle\\OpenGLGlutGlfwShaderTemplate\\testGlut.cpp",
+              "RelativeDocumentMoniker": "OpenGLGlutGlfwShaderTemplate\\testGlut.cpp",
+              "ToolTip": "C:\\Users\\adama\\Documents\\GBC\\OpenGL\\MultiColour Triangle\\OpenGLGlutGlfwShaderTemplate\\testGlut.cpp",
+              "RelativeToolTip": "OpenGLGlutGlfwShaderTemplate\\testGlut.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T21:26:32.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
